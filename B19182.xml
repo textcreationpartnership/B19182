@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Kings Maiesties propositions to the gentry and commonality of Nottingham who according to His Majesties command made their appearance neere unto the citie of Nottingham : with the answer of the gentry to the Kings Majesties propositions declaring their full</title>
+            <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+         </titleStmt>
+         <extent>Approx. 7KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B19182</idno><idno type="EEBO-CITATION">12258390</idno>
+  <idno type="VID">197609</idno>
+  <idno type="EEBO-PROQUEST">2240956921</idno>
+  
+            <idno type="STC">Wing C2732</idno>
+            <idno type="OCLC">12258390</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B19182)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 197609)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 247:E116, no 23)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Kings Maiesties propositions to the gentry and commonality of Nottingham who according to His Majesties command made their appearance neere unto the citie of Nottingham : with the answer of the gentry to the Kings Majesties propositions declaring their full</title>
+                  <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+                  <author>Charles I, King of England, 1600-1649.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>... Printed for I. Rider,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Thomason Collection, British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Nottingham (England) --  History.</term>
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649 --  Sources.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:197609:1"/>
+            <pb facs="tcp:197609:1"/>
+            <p>The Kings Maiesties PROPOSITIONS To the Gentry and Commonalty of <hi>Nottingham.</hi>
+            </p>
+            <p>Who according to His Majesties Command made their Appearance neere unto the Citie of <hi>Nottingham.</hi>
+            </p>
+            <p>With the Answer of the Gentry to the Kings Majesties Propositions, Declaring their full Resolution concerning the Standerd, very fit and necessary to be published,</p>
+            <p>Likewise, Happy Newes from <hi>Nor<g ref="char:EOLhyphen"/>thampton,</hi> signifying the Skirmish they had there with the Cavaleers, <hi>Septem.</hi> 2.</p>
+            <p>And the manner how they beat them off from the Towne, having now raised 400. Horse for the service of the Parliament.</p>
+            <p>As also some Passages from PORTSMOUTH.</p>
+            <p>
+               <hi>Septemb.</hi> 9. Printed for <hi>I. Rider.</hi> 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:197609:2"/>
+            <pb facs="tcp:197609:2"/>
+            <head>His Majesties Propositions to the <hi>Gentry and Commonalty of Nottingham.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">T</seg>He Kings most Excellent Ma<g ref="char:EOLhyphen"/>jesty having within few dayes taken into consideration the great and manifold preparati<g ref="char:EOLhyphen"/>ons that are now making for warre here in the South, and divers other places of this Kingdome, and being informed of some of his Councell of the proceedings in <hi>Warwickshire,</hi> forthwith resolved to send some aide to the Earle of <hi>Northamp<g ref="char:EOLhyphen"/>ton,</hi> so that he might by that meanes the better performe the trust reposed in him by His Maiesty, and to that end His Highnesse intended to send out War<g ref="char:EOLhyphen"/>rants to all the adjoyning Counties for their appearance, to aid and assist His Majesty therein, but the greatest part re<g ref="char:EOLhyphen"/>fused
+<pb n="2" facs="tcp:197609:3"/>to come to obey the Warrant. His Royall Majesty being somewhat displeased thereat, that they should deny to obey his Command, sent out a strict Command that they should resigne up their Armes; and restore them to those which hee had appointed to take charge of them; and having a great confidence of His Subjects of <hi>Nottingham,</hi> thought it meet and expe<g ref="char:EOLhyphen"/>dient to desire the aide and assistance of the Trained Band of that Citie to Guard His Royall Person towards <hi>Coventry,</hi> and to that end propounded these following propositions to them, <hi>(viz.)</hi>
+            </p>
+            <p n="1">1. <hi>That they would be pleased to goe along with him towards Coventry in Warwickshire, for the aide and assistance of His Royall Per<g ref="char:EOLhyphen"/>son against all those that should presume to op<g ref="char:EOLhyphen"/>pose him.</hi>
+            </p>
+            <p n="2">2. <hi>That His Majesty desired all his Lo<g ref="char:EOLhyphen"/>ving Subjects of that County, to make their appearance at Nottingham, where His Maje<g ref="char:EOLhyphen"/>stie
+<pb n="3" facs="tcp:197609:3"/>hath now set up His Stardard to assist him against the Rebels (meaning the Parliaments Forces) but the County refused the same, vow<g ref="char:EOLhyphen"/>ing to lose their dearest lives in the defence of his Royall Majesty and the Parliament, against the blood-sucking Cavaleeres.</hi>
+            </p>
+            <p n="3">3. <hi>His Majesty propounded unto them, that the Trained Band of that County might goe a<g ref="char:EOLhyphen"/>long with him, to guard His Royall Person from his Foes and Enemies, but they utterly denyed these His Majesties demands, and would by no meanes condescend thereunto.</hi>
+            </p>
+            <p n="4">4. <hi>His Majesty desired that they would bee pleased to lend him the Magazine of the said County, promising to see them have it againe ere long time, but they likewise denyed these His Majesties request, and would not give their consents that it should be transported out their owne County.</hi>
+            </p>
+            <pb n="4" facs="tcp:197609:4"/>
+            <p> These fore-going Propositions being propounded from the King most Excel<g ref="char:EOLhyphen"/>lent Majesty, to the Gentry and Com<g ref="char:EOLhyphen"/>monalty of the County of <hi>Nottingham,</hi> with an earnest desire that they should conde<g ref="char:EOLhyphen"/>scend to these his Demands, and after some time had in consultation thereupon, they returned this Answer, That for His Majesties Desires to have the Magazine for some certaine time, they would not con<g ref="char:EOLhyphen"/>sent thereunto, by reason it was all the strength they had for the defence of their County, and when that was taken away they were left destitute and naked, inso<g ref="char:EOLhyphen"/>much that the Cavaleers might then have theit wills on them, and take all that they had from them; therefore they could not by any meanes condescend to these His Majesties desires, desiring Pardon from his Highnesse, for they have now tooke example by other Counties, and therefore before that the Magazine should be carried away out of the County they are in generall resolved to lose their lives
+<pb n="5" facs="tcp:197609:4"/>in the defence thereof. Since the setting up of His Standard the Cavaleers have committed many out-rages against the Inhabitants of those parts. Advertisement was given to the House, that many of the Cavaleers were in <hi>Northamptonshire,</hi> and being afraid to come neere <hi>Coventry,</hi> by reason that Colonell <hi>Hampden</hi> lav there very strong, tis feared that they wil make an assault upon <hi>Northampton,</hi> but that town hath a strong Garrison in it, and have re<g ref="char:EOLhyphen"/>paired their walls, and made strong For<g ref="char:EOLhyphen"/>tifications in it, and the Country hath raised 5000. l. in money, and 300. Horse for the service of the Parliament, and at the time of the Cavaleers approach they had finished their Fortifications, and had placed two pieces of Ordnance thereup<g ref="char:EOLhyphen"/>on, and plaid against them for the space of two houres, but at last they obtained the Victory, putting the Cavaleers, and slew about 20. of them. Both Houses having finished their Remonstrance, forthwith cispatched a Messenger to the States of
+<pb n="6" facs="tcp:197609:5"/>the united Provinces, with this Remon<g ref="char:EOLhyphen"/>strance, signifying that if the disturbance of this State should prevaile, it would much prejudice them, and if the Prince of <hi>Orange</hi> should supply His Majestie. There was Newes came to the House of Commons, that <hi>Colonell Goring</hi> had sent a partie to the Parliaments Forces that were before <hi>Portsmouth,</hi> and desires to render up the said Town if they will give him quar<g ref="char:EOLhyphen"/>ter, and withall to give him leave to goe to his Majesty; and certain Letters were also taken, wherein was a discovery that the Cavaleers did intend to give an Ala<g ref="char:EOLhyphen"/>rum by night from <hi>Chichester</hi> side, think<g ref="char:EOLhyphen"/>ing by that meanes to draw our Forces from that side of <hi>Portsmouth,</hi> and so to give the Colonell and his Forces opportunity to escape, but that plot is like to take no effect, for <hi>Cow-Castle</hi> and the Ile of <hi>Wight</hi> are now fully resolved to stand for the King and Parliament.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
